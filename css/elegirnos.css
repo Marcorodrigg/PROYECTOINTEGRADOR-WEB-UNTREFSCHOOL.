@@ -1,0 +1,12 @@
+#contenedor{
+    
+    justify-content: right;
+}
+#txt{
+    margin-right: 60px;
+}
+
+.imagen{
+    width: 450px;
+    height: 350px;
+}
